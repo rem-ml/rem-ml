@@ -1,9 +1,9 @@
 <table>
 <tr>
-<td width="40%" valign="bottom">
+<td width="40%" valign="middle">
   <img src="image-3.jpg" alt="ASCII Art Profile" width="100%"/>
 </td>
-<td width="60%" valign="bottom">
+<td width="60%" valign="middle">
 
 ### Hi, I'm an ML Engineer with a Masters in AI from the UK
 
