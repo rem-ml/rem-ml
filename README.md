@@ -5,7 +5,7 @@
 </td>
 <td width="60%" valign="middle">
 
-### Hi, I'm an ML Engineer with a Masters in AI from the UK
+### Hi, I'm an ML Engineer from the UK
 
 **Currently focused on:**
 - **Recommendation Systems**: Two-tower architectures and neural collaborative filtering
