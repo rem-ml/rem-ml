@@ -1,19 +1,20 @@
 <table>
 <tr>
-<td width="40%" valign="top">
-  <img src="output2.png" alt="ASCII Art Profile" width="100%"/>
+<td width="40%" valign="bottom">
+  <img src="image-3.jpg" alt="ASCII Art Profile" width="100%"/>
 </td>
-<td width="60%" valign="top">
+<td width="60%" valign="bottom">
 
-### Hi, I'm an ML Engineer with a Masters in AI from Scotland
+### Hi, I'm an ML Engineer with a Masters in AI from the UK
 
-**Currently learning:**
-- **Recommendation Systems**: Neural collaborative filtering, two-tower architectures, and LLM-augmented recommendations
-- **Modern Transformer Architectures**: RoPE, Multi-Query Attention (MQA), Mixture of Experts (MoE), and efficient inference with vLLM
+**Currently focused on:**
+- **Recommendation Systems**: Two-tower architectures and neural collaborative filtering
+- **Modern Transformers**: State-of-the-art improvements and efficient inference techniques
+- **Computer Vision**: Vision-language models for multimodal learning
 
 ---
 
-**Tools & Technologies**
+**Tools & Technologies:**
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=py,pytorch,sklearn,fastapi,docker" alt="Core Tools" />
