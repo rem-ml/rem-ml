@@ -1,33 +1,27 @@
-<table>
-<tr>
-<td width="40%" valign="middle">
-  <img src="image-3.jpg" alt="ASCII Art Profile" width="100%"/>
-</td>
-<td width="60%" valign="middle">
+<img src="robbie.png" alt="Robbie" width="100%" />
 
-### Hi, I'm an ML Engineer from the UK
+<p align="center">
+  <b>👋 Hi, I'm Robbie</b>
+</p>
 
-**Currently focused on:**
-- **Recommendation Systems**: Two-tower architectures and neural collaborative filtering
-- **Modern Transformers**: State-of-the-art improvements and efficient inference techniques
-- **Computer Vision**: Vision-language models for multimodal learning
+<p align="center">
+  <a href="https://www.robbiemacinnes.com">Website</a> •
+  <a href="https://www.linkedin.com/in/robbie-macinnes/">LinkedIn</a>
+</p>
+ 
+ --- 
+ 
+- ML Engineer with an MSc in Artificial Intelligence
+- I build production ML systems and LLM-powered applications
+- Currently consulting on AI agent and automation projects
+- Based in Scotland
 
 ---
 
-**Tools & Technologies:**
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=py,pytorch,sklearn,fastapi,docker" alt="Core Tools" />
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" alt="Apache Spark"/>
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000" alt="HuggingFace"/>
-  <img src="https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=000" alt="Weights & Biases"/>
-</p>
-
-</td>
-</tr>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://raw.githubusercontent.com/rem-ml/rem-ml/main/profile-summary-card-output/dark/0-profile-details.svg" />
+    </td>
+  </tr>
 </table>
