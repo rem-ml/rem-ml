@@ -9,10 +9,11 @@
  
  --- 
  
-- ML Engineer with an MSc in Artificial Intelligence
-- I build production ML systems and LLM-powered applications
-- Currently consulting on AI agent and automation projects
-- Based in Scotland
+I'm an ML/AI engineer from Scotland. I train models and make agents do work for me.
+
+Have a look at some of the projects I've made public below, or check out the writeups on my website.
+
+Currently focused on agentic AI and getting better at TypeScript. Feel free to say hi!
 
 ---
 
