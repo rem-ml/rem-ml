@@ -1,8 +1,6 @@
 <img src="robbie.png" alt="Robbie" width="100%" />
 
-<p align="center">
-  <b>👋 Hi, I'm Robbie</b>
-</p>
+<h1 align="center">Hi, I'm Robbie</h1>
 
 <p align="center">
   <a href="https://www.robbiemacinnes.com">Website</a> •
