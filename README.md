@@ -9,11 +9,11 @@
  
  --- 
  
-I'm an ML/AI engineer from Scotland. I train models and make agents do work for me.
+I'm an ML/AI engineer from Scotland. 
 
-Have a look at some of the projects I've made public below, or check out the writeups on my website.
+Currently building with agents and exploring multimodal AI. Some of my projects are pinned below and I've got writeups for them on my website. 
 
-Currently focused on agentic AI and getting better at TypeScript. Feel free to say hi!
+Always happy to chat so feel free to reach out!
 
 ---
 
